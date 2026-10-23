@@ -1,0 +1,8 @@
+{
+  "name": "Hotel Baiten Catalog & Staff Learning Hub",
+  "description": "Mobile-first digital product catalog and Japanese-Myanmar-English learning hub for hotel gift shop staff, featuring inventory search, furigana toggle, audio TTS, flashcards, and keigo customer service phrases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
